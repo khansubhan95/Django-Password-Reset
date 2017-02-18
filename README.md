@@ -1,3 +1,3 @@
-# User Authentication in Django
+# Password Reset in Django
 
-User login, logout and signup using Django
+Resetting user password through email in Django
